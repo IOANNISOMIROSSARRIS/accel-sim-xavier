@@ -42,6 +42,11 @@ QV100_old:
 GV100:
     base_file: "$GPGPUSIM_ROOT/configs/tested-cfgs/SM7_GV100/gpgpusim.config"
 
+# Volta
+xavier:
+    base_file: "$GPGPUSIM_ROOT/configs/tested-cfgs/SM72_XAVIER/gpgpusim.config"    
+
+
 A100:
     base_file: "$GPGPUSIM_ROOT/configs/tested-cfgs/SM80_A100/gpgpusim.config"
 
